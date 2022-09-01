@@ -1,0 +1,3 @@
+/Users/gantugs/Desktop/private/university/class/bioinformatics/cmake-build-debug/CMakeFiles/bioinformatics.dir
+/Users/gantugs/Desktop/private/university/class/bioinformatics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gantugs/Desktop/private/university/class/bioinformatics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
